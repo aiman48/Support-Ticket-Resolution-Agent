@@ -1,0 +1,29 @@
+Security Policies and User Protection
+
+Common Security Concerns:
+- Account compromised
+- Suspicious login attempt
+- Password reset email not received
+- Unauthorized access
+- MFA/2FA not working
+- Data breach alert
+- User impersonation
+- Phishing attack report
+- Session hijacking
+- Locked out of account
+
+Support Policy:
+- Never reset passwords manually.
+- Escalate suspicious logins to the security team.
+- Do not confirm security system details to users.
+- MFA issues must be verified with identity proof.
+- IP logs can be reviewed only upon legal request.
+
+Steps to Follow:
+- Direct users to password reset page securely.
+- Ask for login location, device type, time of event.
+- Encourage changing passwords immediately.
+- Notify user of best practices (e.g. enable 2FA).
+
+Keywords:
+account hacked, login alert, unauthorized login, phishing, password stolen, suspicious IP, data leak, OTP not working, security verification, compromised account, suspicious activity, brute force, 2FA issue, MFA failure, password reset not working, access denied, device unknown

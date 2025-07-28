@@ -1,0 +1,29 @@
+General Inquiries and Non-Critical Issues
+
+Common General Topics:
+- Feature requests
+- How-to questions
+- Account preferences
+- Language/region settings
+- Product feedback
+- Privacy policy questions
+- Legal disclaimers
+- Company information
+- App navigation help
+- Change email or name
+- Contact support hours
+- Community guidelines
+
+Support Policy:
+- General inquiries do not require SLA escalation.
+- Feature requests should be logged in feedback tracker.
+- Privacy-related concerns are forwarded to compliance.
+- Provide users with knowledge base links when possible.
+
+Steps to Follow:
+- Understand if the query is informational or action-based.
+- If unclear, ask polite follow-up questions.
+- Direct users to documentation if relevant.
+
+Keywords:
+how do I, where can I find, update profile, contact team, change settings, help center, feedback, user guide, manual, documentation, support hours, request feature, app help, general question, info request, support contact, email change, feedback form, language preference, privacy terms

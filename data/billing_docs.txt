@@ -1,0 +1,30 @@
+Billing Issues and Policies
+
+Common Billing Problems:
+- Double charges
+- Unauthorized charges
+- Subscription not cancelled
+- Overbilling
+- Invoice not received
+- Tax/VAT discrepancies
+- Trial auto-renewals
+- Currency issues
+- Discounts not applied
+- Refunds not processed
+
+Support Policy:
+- Refunds must be approved by the billing manager.
+- Users must cancel subscriptions 24 hours before renewal.
+- Refunds for annual plans are only available within 7 days of payment.
+- Prorated refunds are not offered.
+- No refunds are provided for partial usage or inactivity.
+- Taxes are calculated based on billing address.
+
+Troubleshooting Steps:
+- Ask the user for invoice ID or payment method.
+- Check Stripe/PayPal logs for duplicate transactions.
+- Confirm if they cancelled in-app or on the website.
+- Validate if coupon codes were applied at checkout.
+
+Keywords:
+payment failed, overcharged, refund, billing error, subscription, invoice, transaction ID, card declined, VAT issue, chargeback, billing portal, receipt, billing cycle, coupon, promotional discount, invoice number, transaction history, duplicate charge, plan upgrade, downgrade, failed renewal

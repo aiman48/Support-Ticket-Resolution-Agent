@@ -1,0 +1,31 @@
+Technical Issues and Troubleshooting
+
+Common Technical Problems:
+- Login failure
+- 2FA issues
+- Page not loading
+- App crashing
+- Slow performance
+- API not responding
+- Error codes (500, 403, 404)
+- Network connectivity
+- Device compatibility
+- Feature not working
+- Data sync issues
+- Server timeout
+- Mobile app bugs
+
+Support Policy:
+- Do not ask users to uninstall without trying other fixes first.
+- Report repeated issues to the engineering team.
+- Never share internal server paths or logs.
+- For login problems, always verify device/browser.
+
+Troubleshooting Steps:
+- Ask for error screenshot, browser, and device info.
+- Ask if user has cleared cache or tried incognito.
+- Guide through password reset flow.
+- Check service status dashboard or logs.
+
+Keywords:
+bug, crash, lag, login issue, timeout, loading error, connection failed, error 403, error 500, blank screen, API key invalid, OTP not received, app not opening, mobile bug, sync failed, UI issue, functionality broken, technical glitch, latency, broken link, device unsupported
